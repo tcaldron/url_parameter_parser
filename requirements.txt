@@ -1,1 +1,1 @@
-XlsxWriter==1.2.8
+XlsxWriter>=1.2.8
