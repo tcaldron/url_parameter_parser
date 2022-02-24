@@ -35,10 +35,7 @@ Some notes:
 
 ## To Do
 
-* [ ] Do unit testing (yikes).
-* [ ] Add the ability (or create a separate tool) to scrape URLs, deduplicate and sort them, and then re-export back to XML format.
-* [ ] Add the ability to specify another directory that contains the sitemaps.
-* [ ] Consider using a deduplication method that maintains the original list order.
+* [ ] Figure out how it handles other character sets (only tested with US English so far)
 
 ## License
 
