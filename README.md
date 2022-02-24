@@ -1,6 +1,6 @@
 # xmlscrape
 
-This incredibly simple Python 3 script helps you make sense of a set of URLs with numerous URL parameters. For example, let's say you've just been handed a list of 500,000 URLs for a large website - maybe from Google Search Console, a Screaming Frog Crawl, a backlink database like hrefs, etc. Most large sites use URL parameters extensively; they may be used in faceted navigation, internal site search, session tracking, geolocation, etc. 
+This incredibly simple Python 3 script helps you make sense of a set of URLs with numerous URL parameters. For example, let's say you've just been handed a list of 500,000 URLs for a large website - maybe from Google Search Console, a Screaming Frog Crawl, a backlink database like ahrefs, etc. Most large sites use URL parameters extensively; they may be used in faceted navigation, internal site search, session tracking, geolocation, etc. 
 
 It's tricky to sort 500,000 URLs with 100 parameters in something like Excel, especially if the parameters aren't present in every URL or can appear in different orders. This Python script solves the issue by simply breaking each of the parameters into a separate column in a spreadsheet. This way you can easily sort, filter, etc. based on parameter values. 
 
