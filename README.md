@@ -4,6 +4,8 @@ This incredibly simple Python 3 script helps you make sense of a set of URLs wit
 
 It's tricky to sort 500,000 URLs with 100 unique parameters in something like Excel, especially if the parameters aren't present in every URL or can appear in different orders. This Python script solves the issue by simply breaking each of the parameters into a separate column in a spreadsheet. This way you can easily sort, filter, etc. based on parameter values. 
 
+![example output](/repository/example_output.PNG?raw=true "example output")
+
 Many thanks to the team at [Climb](https://www.climbmarketing.com) for the support in developing this and our other tools.  
 
 ## Installation
