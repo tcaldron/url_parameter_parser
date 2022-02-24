@@ -1,4 +1,4 @@
-# xmlscrape
+# url_parameter_parser
 
 This incredibly simple Python 3 script helps you make sense of a set of URLs with numerous URL parameters. For example, let's say you've just been handed a list of 500,000 URLs for a large website - maybe from Google Search Console, a Screaming Frog crawl, a backlink database like ahrefs, etc. Most large sites use URL parameters extensively; they may be used in faceted navigation, internal site search, session tracking, geolocation, etc. 
 
